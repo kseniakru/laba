@@ -16,6 +16,23 @@
       "revId": "2381d42fc815e584d9e80cae3477f7e224629c15",
       "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "08df2768_7b6ab04a",
+        "filename": "file.h",
+        "patchSetId": 1
+      },
+      "lineNbr": 5,
+      "author": {
+        "id": 1010911
+      },
+      "writtenOn": "2017-04-07T06:28:31Z",
+      "side": 1,
+      "message": "Poezija!",
+      "revId": "2381d42fc815e584d9e80cae3477f7e224629c15",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
     }
   ]
 }
