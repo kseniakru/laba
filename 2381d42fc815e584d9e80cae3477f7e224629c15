@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "5cdc3b74_e7960ffc",
+        "filename": "file.h",
+        "patchSetId": 1
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 1010904
+      },
+      "writtenOn": "2017-04-07T06:27:09Z",
+      "side": 1,
+      "message": "What is this? Nat valid!",
+      "revId": "2381d42fc815e584d9e80cae3477f7e224629c15",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
